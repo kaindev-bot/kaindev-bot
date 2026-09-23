@@ -45,28 +45,11 @@
 
 <br/>
 
-## 📊 Estatísticas do Tripulante
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaindev-bot&show_icons=true&theme=maroon&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaindev-bot&layout=compact&theme=maroon&hide_border=true&hide=html,css"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaindev-bot&theme=maroon&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 <!-- GIF Chapéus de Palha / Tripulação -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWgwcXBzMTNldnA1cDZsdDFuYTYwdWR0NWlhbnF6bW00eWplYjU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13fTar4VVaFlG8/giphy.gif" width="320px" style="border-radius: 8px;" alt="Straw Hats Crew"/>
 
+<br/><br/>
 <br/><br/>
 
 > *"Se você não arriscar a sua vida, não poderá criar um futuro!"*  
