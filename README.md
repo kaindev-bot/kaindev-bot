@@ -47,6 +47,7 @@
 
 
 <!-- GIF Chapéus de Palha / Tripulação -->
+<!-- GIF Chapéus de Palha / Tripulação -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWgwcXBzMTNldnA1cDZsdDFuYTYwdWR0NWlhbnF6bW00eWplYjU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13fTar4VVaFlG8/giphy.gif" width="320px" style="border-radius: 8px;" alt="Straw Hats Crew"/>
 
 <br/><br/>
