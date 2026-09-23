@@ -3,9 +3,6 @@
 # 🏴‍☠️ Olá, eu sou o Kain!
 ### ⚡ Desenvolvedor Full-Stack & Entusiasta Tech
 
-<!-- Banner Superior: Luffy / One Piece -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNkNDNhMDY0YmExNDI0ZTkzZGNjNjRiOTdmNjc1MmQyYWVhMzg4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C21GGDOpKT6Z4VuXyn/giphy.gif" width="100%" max-height="250px" style="object-fit: cover; border-radius: 10px;" alt="One Piece Banner"/>
-
 <br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=550&lines=Navegando+pelo+mar+do+desenvolvimento+web...;Focado+nos+projetos+NUVE+e+SolShield!;Especialista+em+JavaScript+%7C+Node.js+%7C+CSS;Em+busca+do+One+Piece+dos+c%C3%B3digos!)](https://git.io/typing-svg)
