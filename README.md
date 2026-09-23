@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🏴‍☠️ Olá, eu sou o Kain!
-### ⚡ Desenvolvedor Full-Stack & Entusiasta Tech
+#  Olá, eu sou o Kain!
+###  Desenvolvedor Full-Stack & Entusiasta Tech
 
 <br/><br/>
 
@@ -9,7 +9,7 @@
 
 ---
 
-### ⚔️ Tecnologias & Equipamentos do Bando
+###  Tecnologias & Equipamentos do Bando
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -54,6 +54,5 @@
 <br/><br/>
 
 > *"Se você não arriscar a sua vida, não poderá criar um futuro!"*  
-> — **Monkey D. Luffy 👒**
 
 </div>
