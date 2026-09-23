@@ -45,34 +45,23 @@
 
 <br/>
 
+## 📊 Estatísticas do Tripulante
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaindev-bot&show_icons=true&theme=maroon&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaindev-bot&layout=compact&theme=maroon&hide_border=true&hide=html,css"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaindev-bot&theme=maroon&hide_border=true" alt="Streak Stats"/>
+
+</div>
+
+<br/>
+
 ## 🐉 Snake Game (Grid de Contribuições)
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Roda a cada 12 horas
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <div align="center">
 
 <picture>
