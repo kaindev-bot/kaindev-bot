@@ -45,23 +45,6 @@
 
 <br/>
 
-## 📊 Estatísticas do Tripulante (Nível de Poder)
-
-<div align="center">
-
-<!-- Cards de estatísticas configurados com o tema 'maroon' / vermelho para combinar com One Piece -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaindev-bot&show_icons=true&theme=maroon&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaindev-bot&layout=compact&theme=maroon&hide_border=true&hide=html,css"/>
-
-<br/><br/>
-
-<!-- Card de Streak / Sequência de código -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaindev-bot&theme=maroon&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
-<br/>
-
 ## 🐉 Snake Game (Grid de Contribuições)
 
 <div align="center">
